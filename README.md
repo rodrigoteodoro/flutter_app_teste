@@ -1,6 +1,6 @@
-# app_teste
+# Flutter App Teste
 
-App Teste
+Flutter App Teste
 
 ## Getting Started
 
